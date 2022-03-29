@@ -1,0 +1,19 @@
+{
+  "dataServiceGeneratorVersion": "0.12.2",
+  "appInfo": {
+    "name": "DeploymentCatalog",
+    "description": "",
+    "version": "cjrys7pn",
+    "id": "cl1c619gu164787601s6yhdjvo6t",
+    "url": "https://app.amplication.com/cl1c619gu164787601s6yhdjvo6t",
+    "settings": {
+      "dbHost": "localhost",
+      "dbName": "",
+      "dbPassword": "admin",
+      "dbPort": 5432,
+      "dbUser": "admin",
+      "appId": "cl1c619gu164787601s6yhdjvo6t",
+      "authProvider": "Http"
+    }
+  }
+}
